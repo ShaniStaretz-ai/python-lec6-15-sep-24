@@ -3,7 +3,7 @@
 ## learned subjects:
 
 1) loop else: 
-    In while loop, when the condition in the while is TRUE you can add the else and the next action
+    In loops, when the condition in the while is TRUE you can add the else and the next action
 
     example: (see full code in while)
     ```
