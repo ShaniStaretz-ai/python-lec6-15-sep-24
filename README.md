@@ -39,6 +39,9 @@
          ```
        from random import randint, uniform
       ```
+3) nested loop: 
+   * loop within loop: it's a <u>child</u> loop within a <u>parent</u> loop.
+   * iterator can be the same parameter, doesn't change the functionality (for now....).
 
 ## Extra:
 
