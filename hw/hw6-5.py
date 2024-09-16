@@ -7,5 +7,5 @@ if n % 3 == 0:
     if str_test:
         str_test += " "
     str_test += "Buzz"
-print(str_test)
+print(str_test);
 # END
